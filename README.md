@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Groth mindset
 
-You can use the [editor on GitHub](https://github.com/omar7100/-learning-journal-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Scholars are deeply gratified when their ideas catch on. And they are even more gratified when their ideas make a difference — improving motivation, innovation, or productivity, for example
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -17,6 +16,11 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+Replace the word “failing” with the word “learning.”
+Value the process over the end result.
+Cultivate a sense of purpose.
+
+
 
 1. Numbered
 2. List
