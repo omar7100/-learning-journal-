@@ -10,4 +10,4 @@ there is how I keep my self in growth minset :
 1. Cultivate a sense of purpose.
 
 
-You can knew more a bout me if you vist [my profile] (https://github.com/omar7100/peaky-blinders)
+You can knew more a bout me if you vist [my profile](https://github.com/omar7100/peaky-blinders)
