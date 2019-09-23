@@ -1,4 +1,8 @@
 ## Growth mindset
+
+I finished the edit 
+omar was here
+
 # My name is **omar** and I'm 24 years old ,And i'm mechanical Engineer
 
 Scholars are deeply gratified when their ideas catch on. And they are even more gratified when their ideas make a difference — improving motivation, innovation, or productivity, for example
