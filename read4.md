@@ -3,12 +3,13 @@
 there are many **HTML5 Semantic Markup**
 but the most semantic markup using 
 i write it :
+````
 <article>	Defines self-contained areas on a page
 <header>	Defines the top of a section or page
 <nav>	Defines navigation to other pages in the site
 <progress>	Defines the progress of the task
 <section>	Defines the distinct content of a document
-
+```
 i saw the strucure like this --->>>
 
 ```
