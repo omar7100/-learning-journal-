@@ -21,4 +21,4 @@ You can knew more a bout me if you vist [my profile](https://github.com/omar7100
 
 [js read](js.md)
 
-[javascript](read.md)
+[javascript](read6.md)

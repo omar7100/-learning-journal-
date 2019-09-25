@@ -1,25 +1,16 @@
-# JavaScript is the programming language of HTML and the Web.
+ # It's used to execute entered commands. Most of those commands automate tasks via scripts and batcch files perform advanced administrative functions and troubleshoot or solve certain kinds of Windows issues
 
-JavaScript is easy to learn.
+ **Terminal** is an interface for you to execute *text-based* commands, and it gives you direct access to the underlying operating system, via a shell, on your Mac. 
 
-In HTML, JavaScript code must be inserted between <script> and </script> tags.
+ **pwd** which stands for Print Working Directory.>>>
 
-for example :
+ where are us ?
+ we knew that by using **ls**
 
+ file.exe - an executable file, or program.
+file.txt - a plain text file.
+file.png, file.gif, file.jpg - an image
 
-document.getElementById("demo").innerHTML = "My First JavaScript";
+three of the most common extensions
 
-
-Scripts can be placed in the <body>, or in the <head> section of an HTML page, or in both.
-
-
-
-This tutorial will teach you JavaScript from basic to advanced.
-
-Why Study JavaScript?
-1- HTML to define the content of web pages
-2- CSS to specify the layout of web pages
-3- JavaScript to program the behavior of web pages
-
-Scripts can be placed in the <body>, or in the <head> section of an HTML page, or in both.<em>555-3344</ em></ p> </ body> </ html > 
-Constructive 
+the qouts  ''
