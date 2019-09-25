@@ -21,4 +21,26 @@ You can knew more a bout me if you vist [my profile](https://github.com/omar7100
 
 [js read](js.md)
 
+<<<<<<< HEAD
 [javascript](read6.md)
+=======
+[markdwon read](read1.md)
+
+[remot](read3.md)
+
+
+[marckup_html5](read4.md)
+
+[colors](read5.md)
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 44f2ef40bde713c31954785ce8e4ce4b12f1b1af
